@@ -12,12 +12,12 @@ Setup and test API endpoints that do the following using data structures
 ## How to manually test<br/>
 
 1. Set up a virtual environment<br/>
-       ```$ pip install virtualenv```
-       ```$ virtualenv -p python3 myenv```
-       ```$ source myenv/Scripts/activate```
+       ```$ pip install virtualenv```<br/>
+       ```$ virtualenv -p python3 myenv```<br/>
+       ```$ source myenv/Scripts/activate```<br/>
 
 2. Install Flask<br/>
-       ```$ pip install flask```
+       ```$ pip install flask```<br/>
 
 3. Clone this repository: <br/>
      ```$ git clone https://github.com/ima254/challenge2/```
